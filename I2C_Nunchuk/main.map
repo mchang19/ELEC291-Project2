@@ -1,0 +1,1677 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+                              serial.o (__aeabi_idiv)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o) (__aeabi_idiv0)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+                              main.o (fflush)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o) (__sinit)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o) (_fwalk)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o) (_global_impure_ptr)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o) (__retarget_lock_init_recursive)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+                              main.o (memcpy)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o) (memset)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o) (_free_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o) (_malloc_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+                              (_printf_float)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o) (_printf_common)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+                              main.o (printf)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                              main.o (puts)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+                              newlib_stubs.o (errno)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o) (__sread)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strlen.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o) (strlen)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o) (__swbuf_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o) (_write_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o) (__swsetup_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o) (_close_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o) (_dtoa_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-localeconv.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o) (_localeconv_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o) (_lseek_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-malloc.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o) (malloc)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o) (memchr)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o) (_Balloc)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-callocr.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o) (_calloc_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o) (_vfprintf_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o) (_read_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o) (_fstat_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o) (_isatty_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-localeconv.o) (__global_locale)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mbtowc_r.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o) (__ascii_mbtowc)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o) (memmove)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o) (_realloc_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strcmp.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o) (strcmp)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wctomb_r.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o) (__ascii_wctomb)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-ctype_.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o) (_ctype_)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_uqi.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o) (__gnu_thumb1_case_uqi)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o) (__gnu_thumb1_case_shi)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o) (__aeabi_uidiv)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o) (__aeabi_dcmpeq)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o) (__aeabi_dadd)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o) (__aeabi_ddiv)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(eqdf2.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o) (__eqdf2)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(gedf2.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o) (__gedf2)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(ledf2.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o) (__ledf2)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o) (__aeabi_dmul)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o) (__aeabi_dsub)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(unorddf2.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o) (__aeabi_dcmpun)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(fixdfsi.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o) (__aeabi_d2iz)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o) (__aeabi_i2d)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatunsidf.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o) (__aeabi_ui2d)
+C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_clzsi2.o)
+                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(adddf3.o) (__clzsi2)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+errno               0x4               C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+temp                0x1               main.o
+__lock___env_recursive_mutex
+                    0x1               C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+ComError            0x4               serial.o
+__lock___sinit_recursive_mutex
+                    0x1               C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+data_array          0x20              main.o
+__lock___malloc_recursive_mutex
+                    0x1               C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+ComRXBuffer         0x4c              serial.o
+payload_len         0x1               nrf24.o
+ComTXBuffer         0x4c              serial.o
+ComOpen             0x4               serial.o
+__lock___at_quick_exit_mutex
+                    0x1               C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+ComBusy             0x4               serial.o
+__lock___dd_hash_mutex
+                    0x1               C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x08000000         0x00010000
+ram              0x20000000         0x00002000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD main.o
+LOAD serial.o
+LOAD startup.o
+LOAD newlib_stubs.o
+LOAD nrf24.o
+LOAD radioPinFunctions.o
+START GROUP
+LOAD C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a
+LOAD C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a
+LOAD C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libm.a
+END GROUP
+
+.text           0x08000000     0x7120
+ *(.vectors)
+ .vectors       0x08000000       0xc0 startup.o
+                0x08000000                Vectors
+ *(.after_vectors*)
+ .after_vectors
+                0x080000c0       0x1a startup.o
+                0x080000c0                ResetInit
+ *(.text*)
+ *fill*         0x080000da        0x2 
+ .text          0x080000dc      0x908 main.o
+                0x080000dc                wait_1ms
+                0x0800011c                delayms
+                0x0800013e                I2C_byte_write
+                0x080001d8                I2C_burst_write
+                0x08000288                I2C_burstRead
+                0x0800035c                nunchuck_init
+                0x08000424                nunchuck_getdata
+                0x08000480                I2C_init
+                0x080005e4                spi_transfer
+                0x08000638                main
+ .text          0x080009e4      0x510 serial.o
+                0x080009e4                ReadCom
+                0x08000a58                WriteCom
+                0x08000afc                initUART
+                0x08000c44                isr_usart1
+                0x08000c70                usart_rx
+                0x08000ca0                usart_tx
+                0x08000d18                PutBuf
+                0x08000d76                GetBuf
+                0x08000dc8                GetBufCount
+                0x08000ddc                eputs
+                0x08000e18                eputc
+                0x08000e36                egetc
+                0x08000e50                egets
+                0x08000edc                serial_data_available
+ .text          0x08000ef4      0x14c startup.o
+                0x08000f6c                initClock
+                0x08001018                Default_Handler
+                0x0800102c                Hard_Fault_Handler
+ .text          0x08001040      0x2a8 newlib_stubs.o
+                0x08001040                _exit
+                0x0800104a                _close
+                0x0800105e                _execve
+                0x08001080                _fork
+                0x08001098                _fstat
+                0x080010b4                _getpid
+                0x080010c0                _kill
+                0x080010e0                _link
+                0x08001100                _lseek
+                0x08001116                _stat
+                0x08001132                _times
+                0x08001146                _unlink
+                0x08001164                _wait
+                0x08001184                _isatty
+                0x080011ac                _sbrk
+                0x0800121c                _read
+                0x08001294                _write
+ .text          0x080012e8      0x574 nrf24.o
+                0x080012e8                nrf24_init
+                0x08001302                nrf24_config
+                0x0800139c                nrf24_rx_address
+                0x080013c4                nrf24_payload_length
+                0x080013d8                nrf24_tx_address
+                0x08001400                nrf24_dataReady
+                0x08001432                nrf24_rxFifoEmpty
+                0x08001456                nrf24_payloadLength
+                0x08001486                nrf24_getData
+                0x080014c4                nrf24_retransmissionCount
+                0x080014f0                nrf24_send
+                0x08001548                nrf24_isSending
+                0x08001570                nrf24_getStatus
+                0x0800159a                nrf24_lastMessageStatus
+                0x080015d0                nrf24_powerUpRx
+                0x08001608                nrf24_powerUpTx
+                0x08001622                nrf24_powerDown
+                0x0800163a                spi_transfer_soft
+                0x080016da                nrf24_transferSync
+                0x08001732                nrf24_transmitSync
+                0x0800177e                nrf24_configRegister
+                0x080017c4                nrf24_readRegister
+                0x0800180c                nrf24_writeRegister
+ .text          0x0800185c       0xd8 radioPinFunctions.o
+                0x0800185c                nrf24_setupPins
+                0x08001866                nrf24_ce_digitalWrite
+                0x080018a0                nrf24_csn_digitalWrite
+                0x08001900                nrf24_sck_digitalWrite
+                0x08001914                nrf24_mosi_digitalWrite
+                0x08001928                nrf24_miso_digitalRead
+ .text          0x08001934      0x1d4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+                0x08001934                __divsi3
+                0x08001934                __aeabi_idiv
+                0x08001b00                __aeabi_idivmod
+ .text          0x08001b08        0x4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+                0x08001b08                __aeabi_idiv0
+                0x08001b08                __aeabi_ldiv0
+ .text          0x08001b0c        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+ .text.__sflush_r
+                0x08001b0c      0x118 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+                0x08001b0c                __sflush_r
+ .text._fflush_r
+                0x08001c24       0x80 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+                0x08001c24                _fflush_r
+ .text.fflush   0x08001ca4       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+                0x08001ca4                fflush
+ .text          0x08001cd0        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .text.std      0x08001cd0       0x48 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x08001d18       0x10 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08001d18                _cleanup_r
+ .text.__fp_lock
+                0x08001d28       0x18 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x08001d40       0x18 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x08001d58       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08001d58                __sfmoreglue
+ .text._cleanup
+                0x08001d84       0x10 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08001d84                _cleanup
+ .text.__sfp_lock_acquire
+                0x08001d94       0x10 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08001d94                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x08001da4       0x10 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08001da4                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x08001db4       0x10 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08001db4                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x08001dc4       0x10 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08001dc4                __sinit_lock_release
+ .text.__sinit  0x08001dd4       0x70 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08001dd4                __sinit
+ .text.__sfp    0x08001e44       0x90 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08001e44                __sfp
+ .text.__fp_lock_all
+                0x08001ed4       0x1c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08001ed4                __fp_lock_all
+ .text.__fp_unlock_all
+                0x08001ef0       0x1c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08001ef0                __fp_unlock_all
+ .text          0x08001f0c        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x08001f0c       0x36 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+                0x08001f0c                _fwalk
+ .text._fwalk_reent
+                0x08001f42       0x40 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+                0x08001f42                _fwalk_reent
+ .text          0x08001f82        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+ .text          0x08001f82        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x08001f82        0x2 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x08001f82                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x08001f84        0x2 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x08001f84                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x08001f86        0x2 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x08001f86                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x08001f88        0x2 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x08001f88                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x08001f8a        0x2 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x08001f8a                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x08001f8c        0x2 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x08001f8c                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x08001f8e        0x4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x08001f8e                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x08001f92        0x4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x08001f92                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x08001f96        0x2 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x08001f96                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x08001f98        0x2 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x08001f98                __retarget_lock_release_recursive
+ .text          0x08001f9a        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x08001f9a       0x12 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+                0x08001f9a                memcpy
+ .text          0x08001fac        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x08001fac       0x10 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+                0x08001fac                memset
+ .text          0x08001fbc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x08001fbc       0x94 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+                0x08001fbc                _free_r
+ .text          0x08002050        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x08002050       0xbc C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                0x08002050                _malloc_r
+ .text          0x0800210c        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+ .text.__cvt    0x0800210c       0xc6 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+                0x0800210c                __cvt
+ .text.__exponent
+                0x080021d2       0x8e C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+                0x080021d2                __exponent
+ .text._printf_float
+                0x08002260      0x49c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+                0x08002260                _printf_float
+ .text          0x080026fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text._printf_common
+                0x080026fc       0xde C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x080026fc                _printf_common
+ *fill*         0x080027da        0x2 
+ .text._printf_i
+                0x080027dc      0x224 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x080027dc                _printf_i
+ .text          0x08002a00        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x08002a00       0x28 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+                0x08002a00                _iprintf_r
+                0x08002a00                _printf_r
+ .text.printf   0x08002a28       0x34 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+                0x08002a28                iprintf
+                0x08002a28                printf
+ .text          0x08002a5c        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+ .text._puts_r  0x08002a5c       0xe4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                0x08002a5c                _puts_r
+ .text.puts     0x08002b40       0x14 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                0x08002b40                puts
+ .text          0x08002b54        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x08002b54       0x1a C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+                0x08002b54                cleanup_glue
+ *fill*         0x08002b6e        0x2 
+ .text._reclaim_reent
+                0x08002b70       0xcc C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+                0x08002b70                _reclaim_reent
+ .text          0x08002c3c        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x08002c3c       0x24 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+                0x08002c3c                _sbrk_r
+ .text          0x08002c60        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+ .text.__sread  0x08002c60       0x28 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                0x08002c60                __sread
+ .text.__seofread
+                0x08002c88        0x4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                0x08002c88                __seofread
+ .text.__swrite
+                0x08002c8c       0x38 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                0x08002c8c                __swrite
+ .text.__sseek  0x08002cc4       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                0x08002cc4                __sseek
+ .text.__sclose
+                0x08002cf0        0xc C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                0x08002cf0                __sclose
+ .text          0x08002cfc        0xe C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strlen.o)
+                0x08002cfc                strlen
+ .text          0x08002d0a        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+ *fill*         0x08002d0a        0x2 
+ .text.__swbuf_r
+                0x08002d0c       0xac C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                0x08002d0c                __swbuf_r
+ .text.__swbuf  0x08002db8       0x14 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                0x08002db8                __swbuf
+ .text          0x08002dcc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+ .text._write_r
+                0x08002dcc       0x28 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+                0x08002dcc                _write_r
+ .text          0x08002df4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+ .text.__swsetup_r
+                0x08002df4       0xf0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                0x08002df4                __swsetup_r
+ .text          0x08002ee4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+ .text._close_r
+                0x08002ee4       0x24 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+                0x08002ee4                _close_r
+ .text          0x08002f08        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+ .text.quorem   0x08002f08      0x116 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+ *fill*         0x0800301e        0x2 
+ .text._dtoa_r  0x08003020      0xbcc C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+                0x08003020                _dtoa_r
+ .text          0x08003bec        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-localeconv.o)
+ .text.__localeconv_l
+                0x08003bec        0x4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-localeconv.o)
+                0x08003bec                __localeconv_l
+ .text._localeconv_r
+                0x08003bf0        0x8 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-localeconv.o)
+                0x08003bf0                _localeconv_r
+ .text.localeconv
+                0x08003bf8        0x8 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-localeconv.o)
+                0x08003bf8                localeconv
+ .text          0x08003c00        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+ .text._lseek_r
+                0x08003c00       0x28 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+                0x08003c00                _lseek_r
+ .text          0x08003c28        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x08003c28       0x50 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+                0x08003c28                __swhatbuf_r
+ .text.__smakebuf_r
+                0x08003c78       0x88 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+                0x08003c78                __smakebuf_r
+ .text          0x08003d00        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-malloc.o)
+ .text.malloc   0x08003d00       0x14 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-malloc.o)
+                0x08003d00                malloc
+ .text.free     0x08003d14       0x14 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-malloc.o)
+                0x08003d14                free
+ .text          0x08003d28        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .text.memchr   0x08003d28       0x16 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+                0x08003d28                memchr
+ .text          0x08003d3e        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+ *fill*         0x08003d3e        0x2 
+ .text.__malloc_lock
+                0x08003d40       0x10 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+                0x08003d40                __malloc_lock
+ .text.__malloc_unlock
+                0x08003d50       0x10 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+                0x08003d50                __malloc_unlock
+ .text          0x08003d60        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+ .text._Balloc  0x08003d60       0x70 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08003d60                _Balloc
+ .text._Bfree   0x08003dd0       0x32 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08003dd0                _Bfree
+ .text.__multadd
+                0x08003e02       0x7c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08003e02                __multadd
+ .text.__s2b    0x08003e7e       0x82 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08003e7e                __s2b
+ .text.__hi0bits
+                0x08003f00       0x34 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08003f00                __hi0bits
+ .text.__lo0bits
+                0x08003f34       0x5c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08003f34                __lo0bits
+ .text.__i2b    0x08003f90       0x12 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08003f90                __i2b
+ .text.__multiply
+                0x08003fa2      0x146 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08003fa2                __multiply
+ .text.__pow5mult
+                0x080040e8       0xa0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x080040e8                __pow5mult
+ .text.__lshift
+                0x08004188       0xc8 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08004188                __lshift
+ .text.__mcmp   0x08004250       0x36 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08004250                __mcmp
+ .text.__mdiff  0x08004286      0x106 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08004286                __mdiff
+ .text.__ulp    0x0800438c       0x48 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x0800438c                __ulp
+ .text.__b2d    0x080043d4       0xa0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x080043d4                __b2d
+ .text.__d2b    0x08004474       0xac C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08004474                __d2b
+ .text.__ratio  0x08004520       0x4e C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08004520                __ratio
+ *fill*         0x0800456e        0x2 
+ .text._mprec_log10
+                0x08004570       0x34 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08004570                _mprec_log10
+ .text.__copybits
+                0x080045a4       0x44 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x080045a4                __copybits
+ .text.__any_on
+                0x080045e8       0x46 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x080045e8                __any_on
+ .text          0x0800462e        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-callocr.o)
+ .text._calloc_r
+                0x0800462e       0x1c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-callocr.o)
+                0x0800462e                _calloc_r
+ .text          0x0800464a        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputc_r
+                0x0800464a       0x2a C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x08004674       0x24 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x08004674                __sfputs_r
+ .text.__sprint_r
+                0x08004698       0x1c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x08004698                __sprint_r
+ .text._vfprintf_r
+                0x080046b4      0x274 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x080046b4                _vfprintf_r
+                0x080046b4                _vfiprintf_r
+ .text.vfprintf
+                0x08004928       0x18 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x08004928                vfprintf
+                0x08004928                vfiprintf
+ .text          0x08004940        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+ .text._read_r  0x08004940       0x28 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+                0x08004940                _read_r
+ .text          0x08004968        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+ .text._fstat_r
+                0x08004968       0x24 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+                0x08004968                _fstat_r
+ .text          0x0800498c        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0800498c      0x2cc C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                0x0800498c                __sfvwrite_r
+ .text          0x08004c58        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+ .text._isatty_r
+                0x08004c58       0x24 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+                0x08004c58                _isatty_r
+ .text          0x08004c7c        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x08004c7c       0x40 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+                0x08004c7c                _setlocale_r
+ .text.__locale_mb_cur_max
+                0x08004cbc       0x10 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+                0x08004cbc                __locale_mb_cur_max
+ .text.setlocale
+                0x08004ccc       0x14 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+                0x08004ccc                setlocale
+ .text          0x08004ce0        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mbtowc_r.o)
+ .text._mbtowc_r
+                0x08004ce0       0x14 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mbtowc_r.o)
+                0x08004ce0                _mbtowc_r
+ .text.__ascii_mbtowc
+                0x08004cf4       0x24 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mbtowc_r.o)
+                0x08004cf4                __ascii_mbtowc
+ .text          0x08004d18        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+ .text.memmove  0x08004d18       0x26 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+                0x08004d18                memmove
+ .text          0x08004d3e        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x08004d3e       0x4c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+                0x08004d3e                _realloc_r
+ .text          0x08004d8a       0x14 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strcmp.o)
+                0x08004d8a                strcmp
+ .text          0x08004d9e        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wctomb_r.o)
+ *fill*         0x08004d9e        0x2 
+ .text._wctomb_r
+                0x08004da0       0x10 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wctomb_r.o)
+                0x08004da0                _wctomb_r
+ .text.__ascii_wctomb
+                0x08004db0       0x1a C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wctomb_r.o)
+                0x08004db0                __ascii_wctomb
+ .text          0x08004dca        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-ctype_.o)
+ .text          0x08004dca        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x08004dca       0x10 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+                0x08004dca                _malloc_usable_size_r
+ *fill*         0x08004dda        0x2 
+ .text          0x08004ddc       0x14 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_uqi.o)
+                0x08004ddc                __gnu_thumb1_case_uqi
+ .text          0x08004df0       0x14 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+                0x08004df0                __gnu_thumb1_case_shi
+ .text          0x08004e04      0x114 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                0x08004e04                __aeabi_uidiv
+                0x08004e04                __udivsi3
+                0x08004f10                __aeabi_uidivmod
+ .text          0x08004f18       0x7c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+                0x08004f18                __aeabi_cdrcmple
+                0x08004f28                __aeabi_cdcmple
+                0x08004f28                __aeabi_cdcmpeq
+                0x08004f38                __aeabi_dcmpeq
+                0x08004f44                __aeabi_dcmplt
+                0x08004f58                __aeabi_dcmple
+                0x08004f6c                __aeabi_dcmpgt
+                0x08004f80                __aeabi_dcmpge
+ .text          0x08004f94      0x6d4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+                0x08004f94                __aeabi_dadd
+ .text          0x08005668      0x5d0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+                0x08005668                __aeabi_ddiv
+ .text          0x08005c38       0x78 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(eqdf2.o)
+                0x08005c38                __nedf2
+                0x08005c38                __eqdf2
+ .text          0x08005cb0       0xe4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(gedf2.o)
+                0x08005cb0                __gedf2
+                0x08005cb0                __gtdf2
+ .text          0x08005d94       0xe0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(ledf2.o)
+                0x08005d94                __ledf2
+                0x08005d94                __ltdf2
+ .text          0x08005e74      0x4d8 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+                0x08005e74                __aeabi_dmul
+ .text          0x0800634c      0x724 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+                0x0800634c                __aeabi_dsub
+ .text          0x08006a70       0x3c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(unorddf2.o)
+                0x08006a70                __aeabi_dcmpun
+ .text          0x08006aac       0x6c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(fixdfsi.o)
+                0x08006aac                __aeabi_d2iz
+ .text          0x08006b18       0x60 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+                0x08006b18                __aeabi_i2d
+ .text          0x08006b78       0x4c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatunsidf.o)
+                0x08006b78                __aeabi_ui2d
+ .text          0x08006bc4       0x3c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_clzsi2.o)
+                0x08006bc4                __clzsi2
+ *(.rodata*)
+ .rodata        0x08006c00      0x165 main.o
+ *fill*         0x08006d65        0x3 
+ .rodata        0x08006d68       0x4c startup.o
+ .rodata.__sf_fake_stderr
+                0x08006db4       0x20 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08006db4                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x08006dd4       0x20 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08006dd4                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x08006df4       0x20 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08006df4                __sf_fake_stdout
+ .rodata._global_impure_ptr
+                0x08006e14        0x4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                0x08006e14                _global_impure_ptr
+ .rodata._printf_float.str1.1
+                0x08006e18       0x12 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+ .rodata._printf_i.str1.1
+                0x08006e2a       0x22 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .rodata._dtoa_r.str1.1
+                0x08006e4c        0xd C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+                                  0xf (size before relaxing)
+ *fill*         0x08006e59        0x7 
+ .rodata.__mprec_bigtens
+                0x08006e60       0x28 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08006e60                __mprec_bigtens
+ .rodata.__mprec_tens
+                0x08006e88       0xc8 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08006e88                __mprec_tens
+ .rodata.__mprec_tinytens
+                0x08006f50       0x28 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                0x08006f50                __mprec_tinytens
+ .rodata.p05.6127
+                0x08006f78        0xc C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+ .rodata._vfprintf_r.str1.1
+                0x08006f84       0x11 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .rodata._setlocale_r.str1.1
+                0x08006f95        0x8 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+                                  0x9 (size before relaxing)
+ .rodata.str1.1
+                0x08006f9d        0x2 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+ .rodata._ctype_
+                0x08006f9f      0x101 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-ctype_.o)
+                0x08006f9f                _ctype_
+ .rodata        0x080070a0       0x40 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+ .rodata        0x080070e0       0x40 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+                0x08007120                . = ALIGN (0x4)
+                0x08007120                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x08007120                PROVIDE (__init_array_end = .)
+                0x08007120                . = ALIGN (0x4)
+                0x08007120                _etext = .
+
+.glue_7         0x08007120        0x0
+ .glue_7        0x08007120        0x0 linker stubs
+
+.glue_7t        0x08007120        0x0
+ .glue_7t       0x08007120        0x0 linker stubs
+
+.vfp11_veneer   0x08007120        0x0
+ .vfp11_veneer  0x08007120        0x0 linker stubs
+
+.v4_bx          0x08007120        0x0
+ .v4_bx         0x08007120        0x0 linker stubs
+
+.iplt           0x08007120        0x0
+ .iplt          0x08007120        0x0 main.o
+
+.rel.dyn        0x08007120        0x0
+ .rel.iplt      0x08007120        0x0 main.o
+
+.data           0x20000000      0x1e4 load address 0x08007120
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _data = .
+ *(.data*)
+ .data          0x20000000        0xe main.o
+                0x20000000                tx_address
+                0x20000008                rx_address
+ .data          0x2000000e        0x0 serial.o
+ .data          0x2000000e        0x0 startup.o
+ *fill*         0x2000000e        0x2 
+ .data          0x20000010        0x4 newlib_stubs.o
+                0x20000010                environ
+ .data          0x20000014        0x0 nrf24.o
+ .data          0x20000014        0x0 radioPinFunctions.o
+ .data          0x20000014        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+ .data          0x20000014        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x20000014        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+ .data          0x20000014        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .data          0x20000014        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+ .data          0x20000014        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000014        0x4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                0x20000014                _impure_ptr
+ .data.impure_data
+                0x20000018       0x60 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strlen.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-localeconv.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-malloc.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-callocr.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+ .data          0x20000078        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+ .data.__global_locale
+                0x20000078      0x16c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+                0x20000078                __global_locale
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mbtowc_r.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strcmp.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wctomb_r.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-ctype_.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_uqi.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(eqdf2.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(gedf2.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(ledf2.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(unorddf2.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(fixdfsi.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatunsidf.o)
+ .data          0x200001e4        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_clzsi2.o)
+                0x200001e4                . = ALIGN (0x4)
+                0x200001e4                _edata = .
+
+.igot.plt       0x200001e4        0x0 load address 0x08007304
+ .igot.plt      0x200001e4        0x0 main.o
+
+.bss            0x200001e4       0xf0 load address 0x08007304
+                0x200001e4                _bss = .
+ *(.bss*)
+ .bss           0x200001e4        0x1 main.o
+                0x200001e4                mode
+ .bss           0x200001e5        0x0 serial.o
+ .bss           0x200001e5        0x0 startup.o
+ *fill*         0x200001e5        0x3 
+ .bss           0x200001e8        0x8 newlib_stubs.o
+                0x200001e8                __env
+ .bss           0x200001f0        0x0 nrf24.o
+ .bss           0x200001f0        0x0 radioPinFunctions.o
+ .bss           0x200001f0        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+ .bss           0x200001f0        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x200001f0        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+ .bss           0x200001f0        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .bss           0x200001f0        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+ .bss           0x200001f0        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+ .bss           0x200001f0        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+ .bss           0x200001f0        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x200001f0        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+ .bss           0x200001f0        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x200001f0        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_free_list
+                0x200001f0        0x4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                0x200001f0                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x200001f4        0x4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                0x200001f4                __malloc_sbrk_start
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strlen.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-localeconv.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-malloc.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-callocr.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+ .bss           0x200001f8        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x200001f8        0x4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+                0x200001f8                _PathLocale
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mbtowc_r.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strcmp.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wctomb_r.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-ctype_.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(eqdf2.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(gedf2.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(ledf2.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(unorddf2.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(fixdfsi.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatunsidf.o)
+ .bss           0x200001fc        0x0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_clzsi2.o)
+ *(COMMON)
+ COMMON         0x200001fc       0x24 main.o
+                0x200001fc                temp
+                0x20000200                data_array
+ COMMON         0x20000220       0xa4 serial.o
+                0x20000220                ComError
+                0x20000224                ComRXBuffer
+                0x20000270                ComTXBuffer
+                0x200002bc                ComOpen
+                0x200002c0                ComBusy
+ COMMON         0x200002c4        0x1 nrf24.o
+                0x200002c4                payload_len
+ COMMON         0x200002c5        0x9 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x200002c5                __lock___atexit_recursive_mutex
+                0x200002c6                __lock___arc4random_mutex
+                0x200002c7                __lock___env_recursive_mutex
+                0x200002c8                __lock___sinit_recursive_mutex
+                0x200002c9                __lock___malloc_recursive_mutex
+                0x200002ca                __lock___at_quick_exit_mutex
+                0x200002cb                __lock___dd_hash_mutex
+                0x200002cc                __lock___tz_mutex
+                0x200002cd                __lock___sfp_recursive_mutex
+ *fill*         0x200002ce        0x2 
+ COMMON         0x200002d0        0x4 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+                0x200002d0                errno
+                0x200002d4                . = ALIGN (0x4)
+                0x200002d4                _ebss = .
+                [!provide]                PROVIDE (end = .)
+                0x200002d4                PROVIDE (_HeapStart = .)
+                0x20002000                PROVIDE (_StackTop = (ORIGIN (ram) + LENGTH (ram)))
+OUTPUT(main.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x2fdb
+ .debug_info    0x00000000      0xc6c main.o
+ .debug_info    0x00000c6c      0x366 serial.o
+ .debug_info    0x00000fd2      0x139 startup.o
+ .debug_info    0x0000110b     0x103e newlib_stubs.o
+ .debug_info    0x00002149      0xd41 nrf24.o
+ .debug_info    0x00002e8a      0x151 radioPinFunctions.o
+
+.debug_abbrev   0x00000000      0xae5
+ .debug_abbrev  0x00000000      0x265 main.o
+ .debug_abbrev  0x00000265      0x177 serial.o
+ .debug_abbrev  0x000003dc       0xd3 startup.o
+ .debug_abbrev  0x000004af      0x2a5 newlib_stubs.o
+ .debug_abbrev  0x00000754      0x2e8 nrf24.o
+ .debug_abbrev  0x00000a3c       0xa9 radioPinFunctions.o
+
+.debug_aranges  0x00000000       0xc8
+ .debug_aranges
+                0x00000000       0x20 main.o
+ .debug_aranges
+                0x00000020       0x20 serial.o
+ .debug_aranges
+                0x00000040       0x28 startup.o
+ .debug_aranges
+                0x00000068       0x20 newlib_stubs.o
+ .debug_aranges
+                0x00000088       0x20 nrf24.o
+ .debug_aranges
+                0x000000a8       0x20 radioPinFunctions.o
+
+.debug_line     0x00000000     0x1253
+ .debug_line    0x00000000      0x650 main.o
+ .debug_line    0x00000650      0x2d0 serial.o
+ .debug_line    0x00000920       0xf8 startup.o
+ .debug_line    0x00000a18      0x37b newlib_stubs.o
+ .debug_line    0x00000d93      0x357 nrf24.o
+ .debug_line    0x000010ea      0x169 radioPinFunctions.o
+
+.debug_str      0x00000000      0xc10
+ .debug_str     0x00000000      0x5cb main.o
+                                0x671 (size before relaxing)
+ .debug_str     0x000005cb       0xe9 serial.o
+                                0x1e1 (size before relaxing)
+ .debug_str     0x000006b4       0x9a startup.o
+                                0x169 (size before relaxing)
+ .debug_str     0x0000074e      0x256 newlib_stubs.o
+                                0x7f6 (size before relaxing)
+ .debug_str     0x000009a4      0x1d5 nrf24.o
+                                0x721 (size before relaxing)
+ .debug_str     0x00000b79       0x97 radioPinFunctions.o
+                                0x1ef (size before relaxing)
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 main.o
+                                 0x7a (size before relaxing)
+ .comment       0x00000079       0x7a serial.o
+ .comment       0x00000079       0x7a startup.o
+ .comment       0x00000079       0x7a newlib_stubs.o
+ .comment       0x00000079       0x7a nrf24.o
+ .comment       0x00000079       0x7a radioPinFunctions.o
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x2c main.o
+ .ARM.attributes
+                0x0000002c       0x2c serial.o
+ .ARM.attributes
+                0x00000058       0x2c startup.o
+ .ARM.attributes
+                0x00000084       0x2c newlib_stubs.o
+ .ARM.attributes
+                0x000000b0       0x2c nrf24.o
+ .ARM.attributes
+                0x000000dc       0x2c radioPinFunctions.o
+ .ARM.attributes
+                0x00000108       0x1e C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000126       0x1e C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000144       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000170       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x0000019c       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x000001c8       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000001f4       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000220       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000024c       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000278       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x000002a4       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x000002d0       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+ .ARM.attributes
+                0x000002fc       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x00000328       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+ .ARM.attributes
+                0x00000354       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+ .ARM.attributes
+                0x00000380       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000003ac       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000003d8       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000404       0x1c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000420       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x0000044c       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000478       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x000004a4       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x000004d0       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x000004fc       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-localeconv.o)
+ .ARM.attributes
+                0x00000528       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x00000554       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x00000580       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x000005ac       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x000005d8       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000604       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x00000630       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-callocr.o)
+ .ARM.attributes
+                0x0000065c       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x00000688       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x000006b4       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x000006e0       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x0000070c       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x00000738       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+ .ARM.attributes
+                0x00000764       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x00000790       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x000007bc       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x000007e8       0x1c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000804       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x00000830       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x0000085c       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x00000888       0x1e C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x000008a6       0x1e C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+ .ARM.attributes
+                0x000008c4       0x1e C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000008e2       0x1e C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000900       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+ .ARM.attributes
+                0x0000092c       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+ .ARM.attributes
+                0x00000958       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(eqdf2.o)
+ .ARM.attributes
+                0x00000984       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(gedf2.o)
+ .ARM.attributes
+                0x000009b0       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(ledf2.o)
+ .ARM.attributes
+                0x000009dc       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+ .ARM.attributes
+                0x00000a08       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+ .ARM.attributes
+                0x00000a34       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(unorddf2.o)
+ .ARM.attributes
+                0x00000a60       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(fixdfsi.o)
+ .ARM.attributes
+                0x00000a8c       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+ .ARM.attributes
+                0x00000ab8       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatunsidf.o)
+ .ARM.attributes
+                0x00000ae4       0x1e C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_clzsi2.o)
+
+.debug_frame    0x00000000     0x197c
+ .debug_frame   0x00000000      0x168 main.o
+ .debug_frame   0x00000168      0x1c0 serial.o
+ .debug_frame   0x00000328       0x94 startup.o
+ .debug_frame   0x000003bc      0x228 newlib_stubs.o
+ .debug_frame   0x000005e4      0x2e0 nrf24.o
+ .debug_frame   0x000008c4       0xc8 radioPinFunctions.o
+ .debug_frame   0x0000098c       0x20 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+ .debug_frame   0x000009ac       0x68 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+ .debug_frame   0x00000a14      0x170 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .debug_frame   0x00000b84       0x58 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00000bdc       0xb0 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+ .debug_frame   0x00000c8c       0x28 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000cb4       0x20 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000cd4       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000d00       0x30 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000d30       0x70 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+ .debug_frame   0x00000da0       0x54 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00000df4       0x50 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+ .debug_frame   0x00000e44       0x44 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+ .debug_frame   0x00000e88       0x48 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x00000ed0       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000efc       0x90 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+ .debug_frame   0x00000f8c       0x48 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x00000fd4       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+ .debug_frame   0x00001000       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x0000102c       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+ .debug_frame   0x00001058       0x54 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+ .debug_frame   0x000010ac       0x40 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-localeconv.o)
+ .debug_frame   0x000010ec       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x00001118       0x54 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x0000116c       0x40 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x000011ac       0x20 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .debug_frame   0x000011cc       0x40 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000120c      0x22c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+ .debug_frame   0x00001438       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-callocr.o)
+ .debug_frame   0x00001464       0x9c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x00001500       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+ .debug_frame   0x0000152c       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x00001558       0x30 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x00001588       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x000015b4       0x54 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+ .debug_frame   0x00001608       0x44 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x0000164c       0x28 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00001674       0x30 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x000016a4       0x20 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strcmp.o)
+ .debug_frame   0x000016c4       0x38 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wctomb_r.o)
+ .debug_frame   0x000016fc       0x20 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000171c       0x20 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000173c       0x38 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+ .debug_frame   0x00001774       0x3c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+ .debug_frame   0x000017b0       0x38 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(eqdf2.o)
+ .debug_frame   0x000017e8       0x38 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(gedf2.o)
+ .debug_frame   0x00001820       0x38 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(ledf2.o)
+ .debug_frame   0x00001858       0x3c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+ .debug_frame   0x00001894       0x3c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+ .debug_frame   0x000018d0       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(unorddf2.o)
+ .debug_frame   0x000018fc       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(fixdfsi.o)
+ .debug_frame   0x00001928       0x2c C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+ .debug_frame   0x00001954       0x28 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatunsidf.o)
+
+.debug_ranges   0x00000000       0x18
+ .debug_ranges  0x00000000       0x18 startup.o
+
+Cross Reference Table
+
+Symbol                                            File
+ComBusy                                           serial.o
+ComError                                          serial.o
+ComOpen                                           serial.o
+ComRXBuffer                                       serial.o
+ComTXBuffer                                       serial.o
+Default_Handler                                   startup.o
+GetBuf                                            serial.o
+GetBufCount                                       serial.o
+Hard_Fault_Handler                                startup.o
+I2C_burstRead                                     main.o
+I2C_burst_write                                   main.o
+I2C_byte_write                                    main.o
+I2C_init                                          main.o
+PutBuf                                            serial.o
+ReadCom                                           serial.o
+ResetInit                                         startup.o
+Vectors                                           startup.o
+WriteCom                                          serial.o
+_Balloc                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+_Bfree                                            C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+_HeapStart                                        newlib_stubs.o
+_PathLocale                                       C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+_StackTop                                         newlib_stubs.o
+                                                  startup.o
+__aeabi_cdcmpeq                                   C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdcmple                                   C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdrcmple                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+__aeabi_d2iz                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(fixdfsi.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__aeabi_dadd                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__aeabi_dcmpeq                                    C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+__aeabi_dcmpge                                    C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__aeabi_dcmpgt                                    C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__aeabi_dcmple                                    C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+__aeabi_dcmplt                                    C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+__aeabi_dcmpun                                    C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(unorddf2.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+__aeabi_ddiv                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__aeabi_dmul                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__aeabi_dsub                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__aeabi_i2d                                       C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__aeabi_idiv                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+                                                  serial.o
+__aeabi_idiv0                                     C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+__aeabi_idivmod                                   C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+__aeabi_ldiv0                                     C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+__aeabi_ui2d                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatunsidf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__aeabi_uidiv                                     C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__aeabi_uidivmod                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+__any_on                                          C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+__ascii_mbtowc                                    C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mbtowc_r.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+__ascii_wctomb                                    C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wctomb_r.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+__b2d                                             C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+__clzsi2                                          C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_clzsi2.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatunsidf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+__copybits                                        C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+__cvt                                             C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+__d2b                                             C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__divsi3                                          C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+__env                                             newlib_stubs.o
+__eqdf2                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(eqdf2.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+__exponent                                        C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+__fp_lock_all                                     C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__fp_unlock_all                                   C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__gedf2                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(gedf2.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+__global_locale                                   C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wctomb_r.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mbtowc_r.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-localeconv.o)
+__gnu_thumb1_case_shi                             C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+__gnu_thumb1_case_uqi                             C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_uqi.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__gtdf2                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(gedf2.o)
+__hi0bits                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__i2b                                             C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__init_array_end                                  startup.o
+__init_array_start                                startup.o
+__ledf2                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(ledf2.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_arm_cmpdf2.o)
+__lo0bits                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+__locale_mb_cur_max                               C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+__localeconv_l                                    C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-localeconv.o)
+__lock___arc4random_mutex                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__lock___atexit_recursive_mutex                   C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__lock___dd_hash_mutex                            C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__lock___env_recursive_mutex                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex                   C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+__lock___sfp_recursive_mutex                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__lock___sinit_recursive_mutex                    C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__lock___tz_mutex                                 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__lshift                                          C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__ltdf2                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(ledf2.o)
+__malloc_free_list                                C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+__malloc_lock                                     C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+__malloc_sbrk_start                               C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+__malloc_unlock                                   C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+__mcmp                                            C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__mdiff                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__mprec_bigtens                                   C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__mprec_tens                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__mprec_tinytens                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+__multadd                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__multiply                                        C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__nedf2                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(eqdf2.o)
+__pow5mult                                        C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+__ratio                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+__retarget_lock_acquire                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__retarget_lock_acquire_recursive                 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+__retarget_lock_close                             C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__retarget_lock_close_recursive                   C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__retarget_lock_init                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__retarget_lock_init_recursive                    C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__retarget_lock_release                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__retarget_lock_release_recursive                 C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+__retarget_lock_try_acquire                       C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__retarget_lock_try_acquire_recursive             C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__s2b                                             C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+__sclose                                          C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__seofread                                        C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+__sf_fake_stderr                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+__sf_fake_stdin                                   C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+__sf_fake_stdout                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+__sflush_r                                        C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+__sfmoreglue                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__sfp                                             C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__sfp_lock_acquire                                C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__sfp_lock_release                                C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__sfputs_r                                        C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+__sfvwrite_r                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+__sinit                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+__sinit_lock_acquire                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__sinit_lock_release                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__smakebuf_r                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+__sprint_r                                        C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+__sread                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__sseek                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__swbuf                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+__swbuf_r                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+__swhatbuf_r                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+__swrite                                          C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__swsetup_r                                       C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+__udivsi3                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\lib\gcc\arm-none-eabi\9.2.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+__ulp                                             C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+_calloc_r                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-callocr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+_cleanup                                          C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+_cleanup_r                                        C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+_close                                            newlib_stubs.o
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+_close_r                                          C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+_ctype_                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-ctype_.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+_data                                             startup.o
+_dtoa_r                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+_ebss                                             startup.o
+_edata                                            startup.o
+_etext                                            startup.o
+_execve                                           newlib_stubs.o
+_exit                                             newlib_stubs.o
+_fflush_r                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+_fork                                             newlib_stubs.o
+_free_r                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-malloc.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+_fstat                                            newlib_stubs.o
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+_fstat_r                                          C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+_fwalk                                            C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+_fwalk_reent                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+_getpid                                           newlib_stubs.o
+_global_impure_ptr                                C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+_impure_ptr                                       C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-malloc.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+                                                  main.o
+_iprintf_r                                        C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+_isatty                                           newlib_stubs.o
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+_isatty_r                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+_kill                                             newlib_stubs.o
+_link                                             newlib_stubs.o
+_localeconv_r                                     C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-localeconv.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+_lseek                                            newlib_stubs.o
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+_lseek_r                                          C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+_malloc_r                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-callocr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-malloc.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+_malloc_usable_size_r                             C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+_mbtowc_r                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mbtowc_r.o)
+_mprec_log10                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+_printf_common                                    C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+_printf_float                                     C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+_printf_i                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+_printf_r                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+_puts_r                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+_read                                             newlib_stubs.o
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+_read_r                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+_realloc_r                                        C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+_reclaim_reent                                    C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+_sbrk                                             newlib_stubs.o
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+_sbrk_r                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+_setlocale_r                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+_stat                                             newlib_stubs.o
+_times                                            newlib_stubs.o
+_unlink                                           newlib_stubs.o
+_vfiprintf_r                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+_vfprintf_r                                       C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+_wait                                             newlib_stubs.o
+_wctomb_r                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wctomb_r.o)
+_write                                            newlib_stubs.o
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+_write_r                                          C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+cleanup_glue                                      C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+data_array                                        main.o
+delayms                                           main.o
+egetc                                             serial.o
+                                                  newlib_stubs.o
+egets                                             serial.o
+                                                  main.o
+environ                                           newlib_stubs.o
+eputc                                             serial.o
+                                                  newlib_stubs.o
+eputs                                             serial.o
+                                                  startup.o
+errno                                             C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-reent.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+                                                  newlib_stubs.o
+fflush                                            C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+                                                  main.o
+free                                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-malloc.o)
+initClock                                         startup.o
+initUART                                          serial.o
+                                                  startup.o
+iprintf                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+isr_usart1                                        serial.o
+                                                  startup.o
+localeconv                                        C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-localeconv.o)
+main                                              main.o
+                                                  startup.o
+malloc                                            C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-malloc.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+memchr                                            C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+memcpy                                            C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mprec.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-dtoa.o)
+                                                  main.o
+memmove                                           C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+memset                                            C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-callocr.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+mode                                              main.o
+nrf24_ce_digitalWrite                             radioPinFunctions.o
+                                                  nrf24.o
+nrf24_config                                      nrf24.o
+                                                  main.o
+nrf24_configRegister                              nrf24.o
+nrf24_csn_digitalWrite                            radioPinFunctions.o
+                                                  nrf24.o
+nrf24_dataReady                                   nrf24.o
+                                                  main.o
+nrf24_getData                                     nrf24.o
+                                                  main.o
+nrf24_getStatus                                   nrf24.o
+nrf24_init                                        nrf24.o
+                                                  main.o
+nrf24_isSending                                   nrf24.o
+                                                  main.o
+nrf24_lastMessageStatus                           nrf24.o
+                                                  main.o
+nrf24_miso_digitalRead                            radioPinFunctions.o
+                                                  nrf24.o
+nrf24_mosi_digitalWrite                           radioPinFunctions.o
+                                                  nrf24.o
+nrf24_payloadLength                               nrf24.o
+nrf24_payload_length                              nrf24.o
+nrf24_powerDown                                   nrf24.o
+                                                  main.o
+nrf24_powerUpRx                                   nrf24.o
+                                                  main.o
+nrf24_powerUpTx                                   nrf24.o
+nrf24_readRegister                                nrf24.o
+nrf24_retransmissionCount                         nrf24.o
+nrf24_rxFifoEmpty                                 nrf24.o
+nrf24_rx_address                                  nrf24.o
+                                                  main.o
+nrf24_sck_digitalWrite                            radioPinFunctions.o
+                                                  nrf24.o
+nrf24_send                                        nrf24.o
+                                                  main.o
+nrf24_setupPins                                   radioPinFunctions.o
+                                                  nrf24.o
+nrf24_transferSync                                nrf24.o
+nrf24_transmitSync                                nrf24.o
+nrf24_tx_address                                  nrf24.o
+                                                  main.o
+nrf24_writeRegister                               nrf24.o
+nunchuck_getdata                                  main.o
+nunchuck_init                                     main.o
+payload_len                                       nrf24.o
+printf                                            C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+                                                  main.o
+puts                                              C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  main.o
+rx_address                                        main.o
+serial_data_available                             serial.o
+                                                  main.o
+setlocale                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+spi_transfer                                      main.o
+                                                  nrf24.o
+spi_transfer_soft                                 nrf24.o
+strcmp                                            C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strcmp.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-locale.o)
+strlen                                            C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strlen.o)
+                                                  C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_float.o)
+temp                                              main.o
+tx_address                                        main.o
+usart_rx                                          serial.o
+usart_tx                                          serial.o
+vfiprintf                                         C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+vfprintf                                          C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+wait_1ms                                          main.o
